@@ -1,0 +1,57 @@
+#app {
+    margin: 0 auto;
+    width: 400px;
+    height: 1000px;
+}
+.block {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.title {
+    font-weight:normal;
+    color:#79D173;
+    letter-spacing:0pt;
+    word-spacing:2pt;
+    font-size:40px;
+    text-align:center;
+    font-family:comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+    line-height:2;
+    margin: 20px;
+}
+.white {
+    background-color: white;
+}
+.aliceblue {
+    background-color: aliceblue;
+}
+.antiquewhite {
+    background-color: antiquewhite;
+}
+.aqua {
+    background-color: aqua;
+}
+.aquamarine {
+    background-color: aquamarine;
+}
+.azure {
+    background-color: azure;
+}
+.blue {
+    background-color: blue;
+}
+.burlywood {
+    background-color: burlywood;
+}
+.crimson {
+    background-color: crimson;
+}
+.cyan {
+    background-color: cyan;
+}
+.darkmagenta {
+    background-color: darkmagenta;
+}
+.deeppink {
+    background-color: deeppink;
+}
